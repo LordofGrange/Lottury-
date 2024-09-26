@@ -1,2 +1,2 @@
-# firelotto
+# Lottury 
 International Blockchain Lottery
